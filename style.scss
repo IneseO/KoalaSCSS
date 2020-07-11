@@ -1,0 +1,17 @@
+
+@mixin block-style ($color) {
+
+  $size:250px;
+  background-color: $color;
+  width: $size;
+  height: $size;
+}
+
+
+.yellow {
+@include block-style(yellow);
+}
+
+.green {
+@include block-style(green);
+}

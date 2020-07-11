@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAUA,OAAQ,CANN,gBAAgB,CAOG,IAAM,CANzB,KAAK,CAFC,KAAK,CAGX,MAAM,CAHA,KAAK,CAWb,MAAO,CAVL,gBAAgB,CAWG,KAAK,CAVxB,KAAK,CAFC,KAAK,CAGX,MAAM,CAHA,KAAK",
+"sources": ["style.scss"],
+"names": [],
+"file": "style.css"
+}
